@@ -1,2 +1,3 @@
 # faster-ui
-Website for Faster Login chrome extension
+
+[Website](https://pocc.github.io/faster-ui) for Faster Login chrome extension
